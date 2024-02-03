@@ -1,0 +1,100 @@
+PMID- 37459094
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230719
+LR  - 20230721
+IS  - 2574-3805 (Electronic)
+IS  - 2574-3805 (Linking)
+VI  - 6
+IP  - 7
+DP  - 2023 Jul 3
+TI  - Workforce Attrition Among Male and Female Physicians Working in US Academic 
+      Hospitals, 2014-2019.
+PG  - e2323872
+LID - 10.1001/jamanetworkopen.2023.23872 [doi]
+LID - e2323872
+AB  - IMPORTANCE: Retaining female physicians in the academic health care workforce is 
+      necessary to serve the needs of sociodemographically diverse patient populations. 
+      OBJECTIVE: To investigate differences in rates of leaving academia between male 
+      and female physicians. DESIGN, SETTING, AND PARTICIPANTS: This cohort study used 
+      Care Compare data from the Centers for Medicare & Medicaid Services for all 
+      physicians who billed Medicare from teaching hospitals from March 2014 to 
+      December 2019, excluding physicians who retired during the study period. Data 
+      were analyzed from November 11, 2021, to May 24, 2022. EXPOSURE: Physician 
+      gender. MAIN OUTCOME AND MEASURES: The primary outcome was leaving academia, 
+      which was defined as not billing Medicare from a teaching hospital for more than 
+      1 year. Multivariable logistic regression was conducted adjusting for physician 
+      characteristics and region of the country. RESULTS: There were 294 963 physicians 
+      analyzed (69.5% male). The overall attrition rate from academia was 34.2% after 5 
+      years (38.3% for female physicians and 32.4% for male physicians). Female 
+      physicians had higher attrition rates than their male counterparts across every 
+      career stage (time since medical school graduation: <15 years, 40.5% vs 34.8%; 
+      15-29 years, 36.4% vs 30.3%; ≥30 years, 38.5% vs 33.3%). On adjusted analysis, 
+      female physicians were more likely to leave academia than were their male 
+      counterparts (odds ratio, 1.25; 95% CI, 1.23-1.28). CONCLUSIONS AND RELEVANCE: In 
+      this cohort study, female physicians were more likely to leave academia than were 
+      male physicians at all career stages. The findings suggest that diversity, 
+      equity, and inclusion efforts should address attrition issues in addition to 
+      recruiting more female physicians into academic medicine.
+FAU - Chen, Ya-Wen
+AU  - Chen YW
+AD  - Department of Surgery, Massachusetts General Hospital/Harvard Medical School, 
+      Boston, Massachusetts.
+AD  - Codman Center for Clinical Effectiveness in Surgery, Massachusetts General 
+      Hospital/Harvard Medical School, Boston, Massachusetts.
+FAU - Orlas, Claudia
+AU  - Orlas C
+AD  - Department of Surgery, Massachusetts General Hospital/Harvard Medical School, 
+      Boston, Massachusetts.
+AD  - Pediatric Surgery Trials and Outcomes Research Center, MassGeneral Hospital for 
+      Children, Boston, Massachusetts.
+FAU - Kim, Tommy
+AU  - Kim T
+AD  - Codman Center for Clinical Effectiveness in Surgery, Massachusetts General 
+      Hospital/Harvard Medical School, Boston, Massachusetts.
+AD  - UMass Chan Medical School, Worcester, Massachusetts.
+FAU - Chang, David C
+AU  - Chang DC
+AD  - Department of Surgery, Massachusetts General Hospital/Harvard Medical School, 
+      Boston, Massachusetts.
+AD  - Codman Center for Clinical Effectiveness in Surgery, Massachusetts General 
+      Hospital/Harvard Medical School, Boston, Massachusetts.
+FAU - Kelleher, Cassandra M
+AU  - Kelleher CM
+AD  - Department of Surgery, Massachusetts General Hospital/Harvard Medical School, 
+      Boston, Massachusetts.
+AD  - Pediatric Surgery Trials and Outcomes Research Center, MassGeneral Hospital for 
+      Children, Boston, Massachusetts.
+LA  - eng
+PT  - Journal Article
+DEP - 20230703
+PL  - United States
+TA  - JAMA Netw Open
+JT  - JAMA network open
+JID - 101729235
+SB  - IM
+CIN - JAMA Netw Open. 2023 Jul 3;6(7):e2323831. PMID: 37459104
+MH  - Aged
+MH  - Humans
+MH  - Male
+MH  - Female
+MH  - United States
+MH  - Cohort Studies
+MH  - *Medicare
+MH  - *Physicians
+MH  - Workforce
+MH  - Hospitals
+PMC - PMC10352856
+COIS- Conflict of Interest Disclosures: None reported.
+EDAT- 2023/07/17 15:09
+MHDA- 2023/07/19 06:42
+CRDT- 2023/07/17 11:33
+PHST- 2023/07/19 06:42 [medline]
+PHST- 2023/07/17 15:09 [pubmed]
+PHST- 2023/07/17 11:33 [entrez]
+AID - 2807336 [pii]
+AID - zoi230701 [pii]
+AID - 10.1001/jamanetworkopen.2023.23872 [doi]
+PST - epublish
+SO  - JAMA Netw Open. 2023 Jul 3;6(7):e2323872. doi: 
+      10.1001/jamanetworkopen.2023.23872.
